@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @aaronseq12
-- 👀 I’m interested in ... coding, Internet of Things and AI enthusiast
-- 🌱 I’m currently learning ... Software development in Information Technology
-- 💞️ I’m looking to collaborate on ... Web and app development projects
-- 📫 How to reach me ... contact me via email aaronsequeira12@gmail.com, aaronsequeira12@hotmail.com
+# 👋 Hey there, I’m Aaron Sequeira (@aaronseq12)
 
-<!---
-aaronseq12/aaronseq12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Passionate about innovation and building smarter solutions** — I dive deep into:
+- 💡 **Coding & Software Development**
+- 🌐 **Web & App Engineering**
+- 🤖 **AI & Machine Learning**
+- 📡 **Internet of Things (IoT)**
+
+---
+
+## 🌱 Currently Exploring
+🔧 Sharpening my skills in full-stack development, cloud services, and integrating AI into real-world applications.
+
+📘 Always learning something new in Information Technology — because curiosity doesn’t take breaks.
+
+---
+
+## 💬 Let’s Collaborate
+I'm open to teaming up on exciting projects in:
+- 🔗 Web & App Development
+- 📲 IoT Systems
+- 🧠 Smart Automation & AI Solutions
+
+Whether you're a developer, designer, or dreamer — let’s create something impactful together!
+
+---
+
+## 📫 Let’s Connect
+📧 Email me at:
+- `aaronsequeira12@gmail.com`
+- `aaronsequeira12@hotmail.com`
+
+💼 LinkedIn (coming soon...)  
+🌍 Portfolio (in progress...)
+
+---
+
+> “Code is poetry — and I’m writing my verses one innovation at a time.”  
+
+✨ Thanks for visiting my corner of GitHub. Stick around, star a repo, or say hi!
