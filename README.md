@@ -31,8 +31,8 @@ Whether you're a developer, designer, or dreamer — let’s create something im
 - `aaronsequeira12@hotmail.com`
 
 💼 LinkedIn :https://www.linkedin.com/in/aaronsequeira/  
-🌍 Portfolio (in progress...)
-Leetcode : 
+🌍 Portfolio (in progress...) 
+Leetcode : https://leetcode.com/u/AaronSequeira/
 
 ---
 
