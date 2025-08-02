@@ -1,1 +1,71 @@
-<div align="center"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:448aff,100:004aad%26height%3D250%26section%3Dheader%26text%3DAaron%2520Sequeira%26fontSize%3D70%26fontColor%3Dffffff%26animation%3DfadeIn%26fontAlignY%3D35" alt="Header Banner"/></div><div align="center"><a href="https://www.linkedin.com/in/aaronsequeira/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/></a><a href="mailto:aaronsequeira12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a><a href="https://leetcode.com/u/AaronSequeira/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack" alt="LeetCode Badge"/></a></div><div align="center"><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Daaronseq12%26label%3DPROFILE%2BVIEWS%26color%3Dblueviolet%26style%3Dflat-square" alt="Profile views" /></div>Hello there! I'm a Software & AI Engineer who builds things for the web and beyond.I'm a passionate Information Technology Engineer from Pune, India, driven by a relentless curiosity for innovation. My goal is to architect and build intelligent, scalable solutions that solve real-world problems.🌱 Currently Mastering: Full-stack development, cloud-native architectures (AWS/Azure), and deploying machine learning models at scale.🚀 My Mission: To turn complex challenges into elegant, efficient, and impactful software.💬 Let's Talk About: Software architecture, AI-driven applications, distributed systems, or the latest tech trends!"Code is poetry — and I’m writing my verses one innovation at a time."🛠️ Languages and ToolsMy toolbox is always expanding. Here are some of the technologies I'm proficient with:<p align="center"><a href="https://skillicons.dev"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,py,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,azure,gcp,git,github,postman,figma,idea,vscode%26perline%3D11" /></a></p>📊 My GitHub StatsA little insight into my coding habits and contributions.<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Daaronseq12%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Aaron's GitHub Stats" width="49%"/><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Daaronseq12%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Top Languages" width="49%"/></div>📌 Pinned ProjectsHere are some of the projects I'm most proud of.<div align="center"><!-- Replace with your own pinned repositories --><a href="https://www.google.com/search?q=https://github.com/aaronseq12/MatlabOilspilldetection" align="left"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Daaronseq12%26repo%3DMatlabOilspilldetection%26theme%3Ddracula" /></a><a href="https://www.google.com/search?q=https://github.com/aaronseq12/ANPR-using-YOLO-and-EasyOCR" align="right"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Daaronseq12%26repo%3DANPR-using-YOLO-and-EasyOCR%26theme%3Ddracula" /></a></div>🐍 My Contribution Graph<div align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/aaronseq12/aaronseq12/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /></div>🤝 Let's Connect and Collaborate!I'm always excited to connect with fellow developers, designers, and innovators. If you have an interesting project or just want to chat about tech, feel free to reach out!
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:448aff,100:004aad%26height%3D250%26section%3Dheader%26text%3DAaron%2520Sequeira%26fontSize%3D70%26fontColor%3Dffffff%26animation%3DfadeIn%26fontAlignY%3D35" alt="Header Banner"/>
+</div>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/aaronsequeira/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:aaronsequeira12@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://leetcode.com/u/AaronSequeira/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack" alt="LeetCode Badge"/>
+</a>
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Daaronseq12%26label%3DPROFILE%2BVIEWS%26color%3Dblueviolet%26style%3Dflat-square" alt="Profile views" />
+</div>
+
+Hello there! I'm a Software & AI Engineer who builds things for the web and beyond.
+I'm a passionate Information Technology Engineer from Pune, India, driven by a relentless curiosity for innovation. My goal is to architect and build intelligent, scalable solutions that solve real-world problems.
+
+🌱 Currently Mastering: Full-stack development, cloud-native architectures (AWS/Azure), and deploying machine learning models at scale.
+
+🚀 My Mission: To turn complex challenges into elegant, efficient, and impactful software.
+
+💬 Let's Talk About: Software architecture, AI-driven applications, distributed systems, or the latest tech trends!
+
+"Code is poetry — and I’m writing my verses one innovation at a time."
+
+🛠️ Languages and Tools
+My toolbox is always expanding. Here are some of the technologies I'm proficient with:
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,py,js,ts,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,azure,gcp,git,github,postman,figma,idea,vscode%26perline%3D11" />
+</a>
+</p>
+
+📊 My GitHub Stats
+A little insight into my coding habits and contributions.
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Daaronseq12%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Aaron's GitHub Stats" width="49%"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Daaronseq12%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Top Languages" width="49%"/>
+</div>
+
+📌 Pinned Projects
+Here are some of the projects I'm most proud of.
+
+<div align="center">
+
+<!-- Replace with your own pinned repositories -->
+
+<a href="https://www.google.com/search?q=https://github.com/aaronseq12/MatlabOilspilldetection" align="left">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Daaronseq12%26repo%3DMatlabOilspilldetection%26theme%3Ddracula" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/aaronseq12/ANPR-using-YOLO-and-EasyOCR" align="right">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Daaronseq12%26repo%3DANPR-using-YOLO-and-EasyOCR%26theme%3Ddracula" />
+</a>
+
+</div>
+
+🐍 My Contribution Graph
+<div align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/aaronseq12/aaronseq12/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+🤝 Let's Connect and Collaborate!
+I'm always excited to connect with fellow developers, designers, and innovators. If you have an interesting project or just want to chat about tech, feel free to reach out!
