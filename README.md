@@ -30,7 +30,7 @@ Whether you're a developer, designer, or dreamer — let’s create something im
 - `aaronsequeira12@gmail.com`
 - `aaronsequeira12@hotmail.com`
 
-💼 LinkedIn (coming soon...)  
+💼 LinkedIn :https://www.linkedin.com/in/aaronsequeira/ 
 🌍 Portfolio (in progress...)
 
 ---
