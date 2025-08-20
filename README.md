@@ -1,5 +1,4 @@
-# 👋 Hey there, I’m Aaron Sequeira (@aaronseq12)
-
+# Hey there, I’m Aaron Sequeira
 
 
 🚀 **Passionate about innovation and building smarter solutions** — I dive deep into:
