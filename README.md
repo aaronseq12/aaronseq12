@@ -1,15 +1,15 @@
 # Hey there, I’m Aaron Sequeira
 
 
-🚀 **Passionate about innovation and building smarter solutions** — I dive deep into:
+ **Passionate about innovation and building smarter solutions** — I dive deep into:
 
-- 💡 **Coding & Software Development**
+-  **Coding & Software Development**
 
 - 🌐 **Web & App Engineering**
 
 - 🤖 **AI & Machine Learning**
 
-- 📡 **Internet of Things (IoT)**
+-  **Internet of Things (IoT)**
 
 
 
@@ -17,13 +17,13 @@
 
 
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
-🔧 Sharpening my skills in full-stack development, cloud services, and integrating AI into real-world applications.
+ Sharpening my skills in full-stack development, cloud services, and integrating AI into real-world applications.
 
 
 
-📘 Always learning something new in Information Technology — because curiosity doesn’t take breaks.
+ Always learning something new in Information Technology — because curiosity doesn’t take breaks.
 
 
 
@@ -31,7 +31,7 @@
 
 
 
-## 💬 Let’s Collaborate
+##  Let’s Collaborate
 
 I'm open to teaming up on exciting projects in:
 
