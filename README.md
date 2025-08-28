@@ -1,7 +1,7 @@
 # Welcome to Aaron Sequeira's Digital Universe! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer+%F0%9F%A4%96;Technical+Consultant+%F0%9F%9A%80;LLM+%26+RAG+Specialist+%F0%9F%A7%A0;Software+%26+Developer+%E2%98%81%EF%B8%8F;Innovation+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer+%F0%9F%A4%96;Technical+Consultant+%F0%9F%9A%80;LLM+%26+RAG+Specialist+%F0%9F%A7%A0;Software+Developer+%E2%98%81%EF%B8%8F;Innovation+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -185,7 +185,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
 </div>
 
-🌍 **Global Citizen:** Lived in Qatar 🇶🇦 & India 🇮🇳  
+🌍 **International Exposure:** Lived in Qatar 🇶🇦 & India 🇮🇳  
 ☕ **Coffee Addict:** Converting caffeine to code since 2021  
 🎯 **Problem Solver:** If it can be automated, I'll find a way  
 🤖 **AI Enthusiast:** Building the future, one neural network at a time  
