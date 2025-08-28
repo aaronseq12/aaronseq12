@@ -1,7 +1,7 @@
-# 🌟 Welcome to Aaron Sequeira's Digital Universe! 🌟
+# Welcome to Aaron Sequeira's Digital Universe! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer+%F0%9F%A4%96;Technical+Consultant+%F0%9F%9A%80;LLM+%26+RAG+Specialist+%F0%9F%A7%A0;Cloud+%26+MLOps+Expert+%E2%98%81%EF%B8%8F;Innovation+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer+%F0%9F%A4%96;Technical+Consultant+%F0%9F%9A%80;LLM+%26+RAG+Specialist+%F0%9F%A7%A0;Software+%26+Developer+%E2%98%81%EF%B8%8F;Innovation+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,14 +10,14 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🏠 **Based in:** Qatar 🇶🇦 & India 🇮🇳  
 🎓 **Education:** B-Tech IT @ Manipal University (CGPA: 8.0)  
 💼 **Current Role:** Full-Stack Developer Intern @ **Baker Hughes**  
-🏆 **Achievement Unlocked:** 1st Place LearnIT Hackathon Winner  
+🏆 **Achievement Recent:** 1st Place LearnIT Hackathon Winner  
 🧠 **Passion:** Building intelligent applications that solve real-world problems  
 ⚡ **Fun Fact:** I turn coffee into AI-powered solutions! ☕➡️🤖
 
@@ -32,10 +32,6 @@
 | LearnIT Hackathon | University Hackathon 8.0 | ACM Mini Hacks 2.0 | GDSC & ACM Lead |
 | Gen-AI Browser Tool | IoT & AI Traffic Mgmt | Smart Home Energy | 15+ Members Mentored |
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
@@ -75,7 +71,7 @@
 
 ---
 
-## 🚀 Professional Journey
+## Professional Journey
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
@@ -87,13 +83,13 @@
 🔹 Architected **Technical Service Portal** using Microsoft Power Platform  
 🔹 **90% reduction** in service downtime, **25% boost** in operational efficiency  
 🔹 Built **LLM-powered document intelligence** system with RAG architecture  
-🔹 **75% reduction** in manual data entry through automation  
+🔹 **75% reduction** in manual data entry through automation of Online Publication System for research papers 
 🔹 Deployed LIMS for PTC/CTC with **40% faster** compliance validation
 
 ### 🤖 **ZenTrades.AI** - Business Associate  
 **📅 Jul 2024 - Sep 2024 | 📍 Pune, India**
 
-🔹 Designed **full-stack MLOps pipeline** for sales call analysis  
+🔹 Designed **full-stack MLOps pipeline** for sales call analysis, I have added an Open Source one in GitHub
 🔹 **15% improvement** in lead qualification accuracy  
 🔹 Technical consultant for US/Canadian clients  
 🔹 **20% improvement** in ticket resolution time
@@ -162,35 +158,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 💡 What I'm Currently Building
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-</div>
-
-🔬 **Quantum-Enhanced AI Models** for next-gen fraud detection  
-🌐 **Multi-Modal RAG Systems** for document intelligence  
-🤖 **Autonomous MLOps Pipelines** with self-healing capabilities  
-🔗 **Blockchain-based Federated Learning** for privacy-first AI  
-
----
-
-## 🏅 Certifications & Recognition
-
-<div align="center">
-
-| 🎓 **Academic** | 🏆 **Professional** | 🌟 **Leadership** |
-|:---:|:---:|:---:|
-| Merit Scholarship | Baker Hughes Recognition | GDSC Lead |
-| Qatar Government Grant | ZenTrades.AI Excellence | ACM Lead |
-| Indian Embassy Scholar | Technical Consultant | 15+ Members Mentored |
-
-</div>
-
----
 
 ## 🌐 Let's Connect & Collaborate!
 
