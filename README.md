@@ -99,10 +99,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaronseq12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aaron's GitHub Stats" width="48%">
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronseq12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronseq12&theme=tokyonight" alt="Profile Summary" width="48%">
 </div>
