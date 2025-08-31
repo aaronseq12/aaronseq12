@@ -1,4 +1,4 @@
-# Welcome to Aaron Sequeira's Digital Universe! 
+# Welcome to Aaron's Digital Universe! 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Engineer+%F0%9F%A4%96;Technical+Consultant+%F0%9F%9A%80;LLM+%26+RAG+Specialist+%F0%9F%A7%A0;Software+Developer+%E2%98%81%EF%B8%8F;Innovation+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
