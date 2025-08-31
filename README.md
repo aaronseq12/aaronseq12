@@ -16,10 +16,10 @@
 
 🏠 **Based in:** Qatar 🇶🇦 & India 🇮🇳  
 🎓 **Education:** B-Tech IT @ Manipal University (CGPA: 8.0)  
-💼 **Current Role:** Full-Stack Developer Intern @ **Baker Hughes**  
+💼 **Current Role:** Full Stack Developer (Freelancer)
 🏆 **Achievement Recent:** 1st Place LearnIT Hackathon Winner  
 🧠 **Passion:** Building intelligent applications that solve real-world problems  
-⚡ **Fun Fact:** I turn coffee into AI-powered solutions! ☕➡️🤖
+⚡ **Fun Fact:** I turn a cup of coffee into AI-powered solutions! ☕➡️🤖
 
 ---
 
@@ -43,7 +43,6 @@
 ### 🤖 **AI & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -78,7 +77,7 @@
 </div>
 
 ### 🏢 **Baker Hughes** - Full-Stack Developer Intern
-**📅 Sep 2024 - Present | 📍 Pune, India**
+**📅 Sep 2024 - August 2025 | 📍 Pune, India**
 
 🔹 Architected **Technical Service Portal** using Microsoft Power Platform  
 🔹 **90% reduction** in service downtime, **25% boost** in operational efficiency  
@@ -113,7 +112,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronseq12&repo=CreditCardFraudDectection&theme=tokyonight&hide_border=true)](https://github.com/aaronseq12/CreditCardFraudDectection)
 
 **🔥 Latest Technologies:** Quantum ML | Graph Neural Networks | Federated Learning | Real-time Streaming  
-**📈 Performance:** 99.98% Accuracy | <1ms Latency | Privacy-Preserving
+**📈 Performance:** 99.38% Accuracy | <1ms Latency | Privacy-Preserving
 
 ---
 
@@ -180,8 +179,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
 </div>
 
-🌍 **International Exposure:** Lived in Qatar 🇶🇦 & India 🇮🇳  
-☕ **Coffee Addict:** Converting caffeine to code since 2021  
 🎯 **Problem Solver:** If it can be automated, I'll find a way  
 🤖 **AI Enthusiast:** Building the future, one neural network at a time  
 🏆 **Competitive:** Always aiming for the podium in hackathons  
