@@ -97,11 +97,8 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Daaronseq12%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26hide%3Dcontribs,prs" alt="Aaron's GitHub Stats" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronseq12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
 <br>
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Daaronseq12%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" width="48%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronseq12&theme=tokyonight" alt="Profile Summary" width="48%">
 </div>
 
