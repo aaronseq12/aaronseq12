@@ -98,10 +98,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronseq12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronseq12&theme=tokyonight" alt="Profile Summary" width="48%">
-  ![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronseq12&hide=contribs,prs)
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Service_Downtime_Reduced-90%25-brightgreen?style=for-the-badge&logo=trending-up">
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Manual_Data_Entry_Cut-75%25-blue?style=for-the-badge&logo=automation">
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Lead_Qualification_Accuracy-+15%25-orange?style=for-the-badge&logo=target">
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Compliance_Validation_Speed-+40%25-purple?style=for-the-badge&logo=security">
+</td>
+</tr>
+</table>
 
 ---
 
