@@ -98,27 +98,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Daaronseq12%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26hide%3Dcontribs,prs" alt="Aaron's GitHub Stats" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronseq12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+<br>
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Daaronseq12%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronseq12&theme=tokyonight" alt="Profile Summary" width="48%">
 </div>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Service_Downtime_Reduced-90%25-brightgreen?style=for-the-badge&logo=trending-up">
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Manual_Data_Entry_Cut-75%25-blue?style=for-the-badge&logo=automation">
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Lead_Qualification_Accuracy-+15%25-orange?style=for-the-badge&logo=target">
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Compliance_Validation_Speed-+40%25-purple?style=for-the-badge&logo=security">
-</td>
-</tr>
-</table>
 
 ---
 
