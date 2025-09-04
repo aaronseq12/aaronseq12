@@ -16,7 +16,7 @@
 
 🏠 **Based in:** Qatar 🇶🇦 & India 🇮🇳  
 🎓 **Education:** B-Tech IT @ Manipal University (CGPA: 8.0)  
-💼 **Current Role:** Full Stack Developer (Freelancer)
+💼 **Current Role:** Full Stack Developer (Freelancer) 
 🏆 **Achievement Recent:** 1st Place LearnIT Hackathon Winner  
 🧠 **Passion:** Building intelligent applications that solve real-world problems  
 ⚡ **Fun Fact:** I turn a cup of coffee into AI-powered solutions! ☕➡️🤖
