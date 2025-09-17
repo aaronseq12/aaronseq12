@@ -102,20 +102,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronseq12&theme=tokyonight" alt="Profile Summary" width="48%">
 </div>
 
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🧠 **Advanced Credit Card Fraud Detection System**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronseq12&repo=CreditCardFraudDectection&theme=tokyonight&hide_border=true)](https://github.com/aaronseq12/CreditCardFraudDectection)
-
-**🔥 Latest Technologies:** Quantum ML | Graph Neural Networks | Federated Learning | Real-time Streaming  
-**📈 Performance:** 99.38% Accuracy | <1ms Latency | Privacy-Preserving
-
----
-
 ### 🏆 **Hackathon Winning Projects**
 
 | Project | Achievement | Tech Stack |
