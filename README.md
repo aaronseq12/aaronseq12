@@ -8,19 +8,41 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
----
 ## About Me
-I am a Full Stack AI Engineer and Technical Consultant with expertise in LLMs, RAG architectures, and enterprise software solutions. My passion lies in building intelligent applications that solve real-world challenges, with a focus on scalable full-stack systems and AI-powered automation.
+I am a Full Stack AI Engineer and Technical Consultant with expertise in LLMs, RAG architectures, and enterprise software solutions. I specialize in building intelligent applications, scalable full-stack systems, and AI-powered automation.
 
 - **Location:** Qatar & India  
 - **Education:** B-Tech in Information Technology, Manipal University (CGPA: 8.0)  
 - **Current Role:** Freelance Full Stack Developer  
 - **Recent Achievement:** 1st Place - LearnIT Hackathon  
-- **Research Interests:** AI systems, cloud computing, automation, and quantum computing
+- **Research Interests:** AI systems, cloud computing, automation, and quantum computing  
 
 ---
 
-## Skills & Technology Stack
+## 🔗 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/aaronseq12/gen-ai-browser-tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaronseq12&repo=gen-ai-browser-tool&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aaronseq12/smart-traffic-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaronseq12&repo=smart-traffic-management&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aaronseq12/smart-home-energy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaronseq12&repo=smart-home-energy&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aaronseq12/mlops-sales-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaronseq12&repo=mlops-sales-analysis&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+<details>
+<summary><strong>Skills & Technology Stack</strong></summary>
 
 ### Artificial Intelligence & Machine Learning
 - Python, TensorFlow, PyTorch, LangChain, OpenAI APIs  
@@ -40,10 +62,12 @@ I am a Full Stack AI Engineer and Technical Consultant with expertise in LLMs, R
 
 ### Tools & Collaboration
 - Git, GitHub, Jira, Confluence, Agile/Scrum  
+</details>
 
 ---
 
-## Professional Experience
+<details>
+<summary><strong>Professional Experience</strong></summary>
 
 ### Baker Hughes - Full-Stack Developer Intern  
 **Sep 2024 - Aug 2025 | Pune, India**  
@@ -59,10 +83,12 @@ I am a Full Stack AI Engineer and Technical Consultant with expertise in LLMs, R
 - Improved lead qualification accuracy by 15% through AI-driven insights.  
 - Acted as a technical consultant for clients across the US and Canada.  
 - Improved ticket resolution time by 20% with optimized workflows.  
+</details>
 
 ---
 
-## Hackathons & Achievements
+<details>
+<summary><strong>Hackathons & Achievements</strong></summary>
 
 | Project | Recognition | Technologies |
 |---------|-------------|--------------|
@@ -70,36 +96,54 @@ I am a Full Stack AI Engineer and Technical Consultant with expertise in LLMs, R
 | Smart Traffic Management | 3rd Place - University Hackathon | IoT, AI, Python |
 | Smart Home Energy System | Best Prototype - ACM Mini Hacks | IoT, .NET, C# |
 
----
-
-## Impact Highlights
-- **90% reduction** in service downtime through portal modernization.  
-- **75% cut** in manual data entry via AI-driven automation.  
-- **40% improvement** in compliance validation speed with LIMS integration.  
-- **15% increase** in lead qualification accuracy using MLOps pipelines.  
+</details>
 
 ---
 
-## GitHub Analytics
+<details>
+<summary><strong>Impact Highlights</strong></summary>
+
+- 90% reduction in service downtime through portal modernization.  
+- 75% cut in manual data entry via AI-driven automation.  
+- 40% improvement in compliance validation speed with LIMS integration.  
+- 15% increase in lead qualification accuracy using MLOps pipelines.  
+
+</details>
+
+---
+
+<details>
+<summary><strong>GitHub Analytics</strong></summary>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronseq12&layout=compact&theme=tokyonight&hide_border=true)  
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronseq12&theme=tokyonight)  
 
+</details>
+
 ---
 
-## Leadership & Mentorship
+<details>
+<summary><strong>Leadership & Mentorship</strong></summary>
+
 - Former Lead at Google Developer Student Club (GDSC) and ACM Chapter.  
 - Mentored 15+ members in AI, software development, and project delivery.  
 - Experience in leading cross-functional hackathon teams from ideation to deployment.  
 
+</details>
+
 ---
 
-## Contact
+<details>
+<summary><strong>Contact</strong></summary>
+
 - **Email:** [aaronsequeira12@gmail.com](mailto:aaronsequeira12@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/aaronsequeira](https://www.linkedin.com/in/aaronsequeira/)  
 - **LeetCode:** [leetcode.com/u/AaronSequeira/](https://leetcode.com/u/AaronSequeira/)  
 - **HackerRank:** [hackerrank.com/profile/aaronsequeira12](https://www.hackerrank.com/profile/aaronsequeira12)  
 - **Alternative Email:** [aaronsequeira12@hotmail.com](mailto:aaronsequeira12@hotmail.com)  
 - **Phone:** +974 66900150 / +91 9987726291  
+
+</details>
 
 ---
 
