@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center"> 
 
 # Aaron Sequeira
 ### Full-Stack AI Engineer | Technical Consultant | Innovation Architect
